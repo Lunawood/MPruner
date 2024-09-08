@@ -1,0 +1,1154 @@
+[
+    {
+        "label": "AutoFeatureExtractor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetForImageClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BeitImageProcessor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "BeitForImageClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForSequenceClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingArguments",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoConfig",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForSequenceClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingArguments",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoConfig",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoFeatureExtractor",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetForImageClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5ForConditionalGeneration",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "T5Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AdamW",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.datasets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.datasets",
+        "description": "torchvision.datasets",
+        "detail": "torchvision.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.transforms",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.transforms",
+        "description": "torchvision.transforms",
+        "detail": "torchvision.transforms",
+        "documentation": {}
+    },
+    {
+        "label": "gc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gc",
+        "description": "gc",
+        "detail": "gc",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_metric",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceEmbeddings",
+        "importPath": "sentence_embeddings",
+        "description": "sentence_embeddings",
+        "isExtraImport": true,
+        "detail": "sentence_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceEmbeddings",
+        "importPath": "sentence_embeddings",
+        "description": "sentence_embeddings",
+        "isExtraImport": true,
+        "detail": "sentence_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "shuffle",
+        "importPath": "sklearn.utils",
+        "description": "sklearn.utils",
+        "isExtraImport": true,
+        "detail": "sklearn.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "nltk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nltk",
+        "description": "nltk",
+        "detail": "nltk",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "util",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pytorch_lightning",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytorch_lightning",
+        "description": "pytorch_lightning",
+        "detail": "pytorch_lightning",
+        "documentation": {}
+    },
+    {
+        "label": "T5FineTuner",
+        "importPath": "train_util",
+        "description": "train_util",
+        "isExtraImport": true,
+        "detail": "train_util",
+        "documentation": {}
+    },
+    {
+        "label": "QGDataset",
+        "importPath": "train_util",
+        "description": "train_util",
+        "isExtraImport": true,
+        "detail": "train_util",
+        "documentation": {}
+    },
+    {
+        "label": "EarlyStopping",
+        "importPath": "pytorch_lightning.callbacks.early_stopping",
+        "description": "pytorch_lightning.callbacks.early_stopping",
+        "isExtraImport": true,
+        "detail": "pytorch_lightning.callbacks.early_stopping",
+        "documentation": {}
+    },
+    {
+        "label": "EarlyStopping",
+        "importPath": "pytorch_lightning.callbacks.early_stopping",
+        "description": "pytorch_lightning.callbacks.early_stopping",
+        "isExtraImport": true,
+        "detail": "pytorch_lightning.callbacks.early_stopping",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionGeneration",
+        "importPath": "generate",
+        "description": "generate",
+        "isExtraImport": true,
+        "detail": "generate",
+        "documentation": {}
+    },
+    {
+        "label": "word_tokenize",
+        "importPath": "nltk.tokenize",
+        "description": "nltk.tokenize",
+        "isExtraImport": true,
+        "detail": "nltk.tokenize",
+        "documentation": {}
+    },
+    {
+        "label": "show_cka_metrics",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def show_cka_metrics(cka_metrics, min_score, save_path):\n    plt.imshow(cka_metrics, cmap=\"gray\", vmin=min_score, vmax=100)\n    plt.title(\"output similarity\")\n    plt.colorbar()\n    plt.axis(\"off\")\n    plt.savefig(save_path + \"/cka_metrics.png\")\ndef centering(K):\n    n = K.shape[0]\n    unit = torch.ones(n, n, device=K.device)\n    I = torch.eye(n, device=K.device)",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "centering",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def centering(K):\n    n = K.shape[0]\n    unit = torch.ones(n, n, device=K.device)\n    I = torch.eye(n, device=K.device)\n    H = I - unit / n\n    return H @ K @ H\ndef HSIC(Kx, Ky):\n    return torch.trace(Kx @ Ky)\ndef linear_CKA(X, Y):\n    Kx = X @ X.T",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "HSIC",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def HSIC(Kx, Ky):\n    return torch.trace(Kx @ Ky)\ndef linear_CKA(X, Y):\n    Kx = X @ X.T\n    Ky = Y @ Y.T\n    Kx_centered = centering(Kx)\n    Ky_centered = centering(Ky)\n    hsic = HSIC(Kx_centered, Ky_centered)\n    var_x = HSIC(Kx_centered, Kx_centered)\n    var_y = HSIC(Ky_centered, Ky_centered)",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "linear_CKA",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def linear_CKA(X, Y):\n    Kx = X @ X.T\n    Ky = Y @ Y.T\n    Kx_centered = centering(Kx)\n    Ky_centered = centering(Ky)\n    hsic = HSIC(Kx_centered, Ky_centered)\n    var_x = HSIC(Kx_centered, Kx_centered)\n    var_y = HSIC(Ky_centered, Ky_centered)\n    cka_score = hsic / torch.sqrt(var_x * var_y)\n    return cka_score.item()",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "get_activation",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def get_activation(name):\n    def hook(model, input, output):\n        activation[name] = output[0]\n    return hook\ndef register_hooks(model, hook):\n    for i in range(len(model.bert.encoder.layer)):\n        othername = hook + str(i)\n        model.bert.encoder.layer[i].register_forward_hook(get_activation(othername))\n        layer_name[i] = \"model.bert.encoder.layer[\" + str(i) + \"]\"\ndef calculate_cka_Metrics(layer_prefix):",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "register_hooks",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def register_hooks(model, hook):\n    for i in range(len(model.bert.encoder.layer)):\n        othername = hook + str(i)\n        model.bert.encoder.layer[i].register_forward_hook(get_activation(othername))\n        layer_name[i] = \"model.bert.encoder.layer[\" + str(i) + \"]\"\ndef calculate_cka_Metrics(layer_prefix):\n    cka_metircs = []\n    for layer_i in range(len(activation)):\n        layer_name_i = layer_prefix + str(layer_i)\n        li = []",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_cka_Metrics",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def calculate_cka_Metrics(layer_prefix):\n    cka_metircs = []\n    for layer_i in range(len(activation)):\n        layer_name_i = layer_prefix + str(layer_i)\n        li = []\n        A = activation[layer_name_i][0]\n        for compare_layer_index in range(len(activation)):\n            compare_layer_name = layer_prefix + str(compare_layer_index)\n            B = activation[compare_layer_name][0]\n            li.append(linear_CKA(A, B) * 100)",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "get_layer_modules",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def get_layer_modules(cka_scores, threshold):\n    if threshold > 100:\n        print(\"threshold should be under 100\")\n        return\n    modules = []\n    module_start_idx = 0\n    temp_module = []\n    start_idx = 0\n    end_idx = 0\n    while end_idx < len(cka_scores):",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def Model(useHGModel, load):\n    if useHGModel:\n        tokenizer = AutoTokenizer.from_pretrained(load)\n        model = AutoModelForSequenceClassification.from_pretrained(load)\n    else:\n        tokenizer = AutoTokenizer.from_pretrained(f\"{load}/tokenizer\")\n        model = torch.load(f\"{load}/bert_original.pth\")\n    model.to(device)\n    return model, tokenizer\ndef Dataset(tokenizer, data_name):",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def Dataset(tokenizer, data_name):\n    dataset = load_dataset(data_name)\n    def tokenize_function(examples):\n        return tokenizer(examples[\"text\"], padding=\"max_length\", truncation=True)\n    dataset = load_dataset(\"emotion\")\n    train_dataset, val_dataset, test_dataset = (\n        dataset[\"train\"],\n        dataset[\"validation\"],\n        dataset[\"test\"],\n    )",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "GetAccuracy",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def GetAccuracy(trainer):\n    return trainer.evaluate()[\"eval_accuracy\"]\ndef GetCandidates(model, tokenizer, hook, threshold, test_loader, save_path):\n    register_hooks(model, hook)\n    length = len(model.bert.encoder.layer)\n    cka_metrics = torch.zeros(length, length)\n    iter = 1\n    model.eval()\n    for _ in range(iter):\n        for index, data in enumerate(tqdm(test_loader)):",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "GetCandidates",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def GetCandidates(model, tokenizer, hook, threshold, test_loader, save_path):\n    register_hooks(model, hook)\n    length = len(model.bert.encoder.layer)\n    cka_metrics = torch.zeros(length, length)\n    iter = 1\n    model.eval()\n    for _ in range(iter):\n        for index, data in enumerate(tqdm(test_loader)):\n            text = data[\"text\"]\n            try:",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "CheckCluster",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def CheckCluster(clusters):\n    for cluster in clusters:\n        if len(cluster) != 1:\n            return False\n    return True\ndef Pruner(model, cluster, k):\n    nofreeze_layer = set()\n    for _, i in enumerate(cluster[::-1]):\n        for j in i[1::k][::-1]:\n            del_cmd = \"del \" + str(layer_name[j])",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Pruner",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def Pruner(model, cluster, k):\n    nofreeze_layer = set()\n    for _, i in enumerate(cluster[::-1]):\n        for j in i[1::k][::-1]:\n            del_cmd = \"del \" + str(layer_name[j])\n            exec(del_cmd)\n            nofreeze_layer = {x - 1 for x in nofreeze_layer}\n            nofreeze_layer.add(j)\n            nofreeze_layer.add(j - 1)\n    return model, nofreeze_layer",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Freezer",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def Freezer(model, unfreeze_list, hook, freeze_flag):\n    if freeze_flag:\n        for name, module in model.named_modules():\n            if hook == module.__class__.__name__:\n                code = (\n                    \"model.\"\n                    + re.sub(r\"\\.(\\d+)\", r\"[\\1]\", name)\n                    + \".requires_grad = False\"\n                )\n                exec(code)",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Save",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def Save(model, save_path):\n    for module in model.modules():\n        module._forward_hooks.clear()\n        module._forward_pre_hooks.clear()\n        module._backward_hooks.clear()\n    torch.save(model, save_path + \"/mpruner_model.pth\")\ndef compute_metrics(pred):\n    labels = pred.label_ids\n    preds = pred.predictions.argmax(-1)\n    acc = accuracy_score(labels, preds)",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "compute_metrics",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def compute_metrics(pred):\n    labels = pred.label_ids\n    preds = pred.predictions.argmax(-1)\n    acc = accuracy_score(labels, preds)\n    return {\n        \"accuracy\": acc,\n    }\ndef CreateTrainer(model, tokenizer, train_loader, val_loader, epoch):\n    model.to(device)\n    training_args = TrainingArguments(",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTrainer",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def CreateTrainer(model, tokenizer, train_loader, val_loader, epoch):\n    model.to(device)\n    training_args = TrainingArguments(\n        output_dir=f\"./model_save\",\n        num_train_epochs=epoch,\n        per_device_train_batch_size=32,\n        per_device_eval_batch_size=32,\n        warmup_steps=500,\n        weight_decay=0.001,\n        logging_dir=\"./logs\",",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Emotion_Mpruner",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "description": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "peekOfCode": "def Emotion_Mpruner(\n    useHGModel,\n    load,\n    data_name,\n    hook,\n    threshold,\n    acc_threshold,\n    epoch,\n    iterate,\n    freeze_flag,",
+        "detail": "Bert_Mpruner.Dair_AI.Emotion_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "show_cka_metrics",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def show_cka_metrics(cka_metrics, min_score, save_path):\n    plt.imshow(cka_metrics, cmap=\"gray\", vmin=min_score, vmax=100)\n    plt.title(\"output similarity\")\n    plt.colorbar()\n    plt.axis(\"off\")\n    plt.savefig(save_path + \"/cka_metrics.png\")\ndef centering(K):\n    n = K.shape[0]\n    unit = torch.ones(n, n, device=K.device)\n    I = torch.eye(n, device=K.device)",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "centering",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def centering(K):\n    n = K.shape[0]\n    unit = torch.ones(n, n, device=K.device)\n    I = torch.eye(n, device=K.device)\n    H = I - unit / n\n    return H @ K @ H\ndef HSIC(Kx, Ky):\n    return torch.trace(Kx @ Ky)\ndef linear_CKA(X, Y):\n    Kx = X @ X.T",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "HSIC",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def HSIC(Kx, Ky):\n    return torch.trace(Kx @ Ky)\ndef linear_CKA(X, Y):\n    Kx = X @ X.T\n    Ky = Y @ Y.T\n    Kx_centered = centering(Kx)\n    Ky_centered = centering(Ky)\n    hsic = HSIC(Kx_centered, Ky_centered)\n    var_x = HSIC(Kx_centered, Kx_centered)\n    var_y = HSIC(Ky_centered, Ky_centered)",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "linear_CKA",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def linear_CKA(X, Y):\n    Kx = X @ X.T\n    Ky = Y @ Y.T\n    Kx_centered = centering(Kx)\n    Ky_centered = centering(Ky)\n    hsic = HSIC(Kx_centered, Ky_centered)\n    var_x = HSIC(Kx_centered, Kx_centered)\n    var_y = HSIC(Ky_centered, Ky_centered)\n    cka_score = hsic / torch.sqrt(var_x * var_y)\n    return cka_score.item()",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "get_activation",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def get_activation(name):\n    def hook(model, input, output):\n        activation[name] = output[0]\n    return hook\ndef register_hooks(model, hook):\n    for i in range(len(model.bert.encoder.layer)):\n        othername = hook + str(i)\n        model.bert.encoder.layer[i].register_forward_hook(get_activation(othername))\n        layer_name[i] = \"model.bert.encoder.layer[\" + str(i) + \"]\"\ndef calculate_cka_Metrics(layer_prefix):",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "register_hooks",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def register_hooks(model, hook):\n    for i in range(len(model.bert.encoder.layer)):\n        othername = hook + str(i)\n        model.bert.encoder.layer[i].register_forward_hook(get_activation(othername))\n        layer_name[i] = \"model.bert.encoder.layer[\" + str(i) + \"]\"\ndef calculate_cka_Metrics(layer_prefix):\n    cka_metircs = []\n    for layer_i in range(len(activation)):\n        layer_name_i = layer_prefix + str(layer_i)\n        li = []",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_cka_Metrics",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def calculate_cka_Metrics(layer_prefix):\n    cka_metircs = []\n    for layer_i in range(len(activation)):\n        layer_name_i = layer_prefix + str(layer_i)\n        li = []\n        A = activation[layer_name_i][0]\n        for compare_layer_index in range(len(activation)):\n            compare_layer_name = layer_prefix + str(compare_layer_index)\n            B = activation[compare_layer_name][0]\n            li.append(linear_CKA(A, B) * 100)",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "get_layer_modules",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def get_layer_modules(cka_scores, threshold):\n    if threshold > 100:\n        print(\"threshold should be under 100\")\n        return\n    modules = []\n    module_start_idx = 0\n    temp_module = []\n    start_idx = 0\n    end_idx = 0\n    while end_idx < len(cka_scores):",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def Model(useHGModel, load):\n    if useHGModel:\n        tokenizer = AutoTokenizer.from_pretrained(load)\n        model = AutoModelForSequenceClassification.from_pretrained(load)\n    else:\n        tokenizer = AutoTokenizer.from_pretrained(f\"{load}/tokenizer\")\n        model = torch.load(f\"{load}/yahoo_original.pth\")\n    model.to(device)\n    return model, tokenizer\ndef Dataset(tokenizer, data_name):",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def Dataset(tokenizer, data_name):\n    dataset = load_dataset(data_name)\n    def tokenize_function(examples):\n        return tokenizer(\n            examples[\"question_title\"], padding=\"max_length\", truncation=True\n        )\n    train_dataset, test_dataset = dataset[\"train\"], dataset[\"test\"]\n    tokenized_train_dataset = train_dataset.map(tokenize_function, batched=True)\n    tokenized_test_dataset = test_dataset.map(tokenize_function, batched=True)\n    tokenized_train_dataset = tokenized_train_dataset.rename_column(\"topic\", \"labels\")",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "GetAccuracy",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def GetAccuracy(trainer):\n    return trainer.evaluate()[\"eval_accuracy\"]\ndef GetCandidates(model, tokenizer, hook, threshold, test_loader, save_path):\n    register_hooks(model, hook)\n    length = len(model.bert.encoder.layer)\n    cka_metrics = torch.zeros(length, length)\n    iter = 1\n    model.eval()\n    for _ in range(iter):\n        for index, data in enumerate(tqdm(test_loader)):",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "GetCandidates",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def GetCandidates(model, tokenizer, hook, threshold, test_loader, save_path):\n    register_hooks(model, hook)\n    length = len(model.bert.encoder.layer)\n    cka_metrics = torch.zeros(length, length)\n    iter = 1\n    model.eval()\n    for _ in range(iter):\n        for index, data in enumerate(tqdm(test_loader)):\n            text = data[\"text\"]\n            try:",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "CheckCluster",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def CheckCluster(clusters):\n    for cluster in clusters:\n        if len(cluster) != 1:\n            return False\n    return True\ndef Pruner(model, cluster, k):\n    nofreeze_layer = set()\n    for _, i in enumerate(cluster[::-1]):\n        for j in i[1::k][::-1]:\n            del_cmd = \"del \" + str(layer_name[j])",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Pruner",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def Pruner(model, cluster, k):\n    nofreeze_layer = set()\n    for _, i in enumerate(cluster[::-1]):\n        for j in i[1::k][::-1]:\n            del_cmd = \"del \" + str(layer_name[j])\n            exec(del_cmd)\n            nofreeze_layer = {x - 1 for x in nofreeze_layer}\n            nofreeze_layer.add(j)\n            nofreeze_layer.add(j - 1)\n    return model, nofreeze_layer",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Freezer",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def Freezer(model, unfreeze_list, hook, freeze_flag):\n    if freeze_flag:\n        for name, module in model.named_modules():\n            if hook == module.__class__.__name__:\n                code = (\n                    \"model.\"\n                    + re.sub(r\"\\.(\\d+)\", r\"[\\1]\", name)\n                    + \".requires_grad = False\"\n                )\n                exec(code)",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Save",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def Save(model, save_path):\n    for module in model.modules():\n        module._forward_hooks.clear()\n        module._forward_pre_hooks.clear()\n        module._backward_hooks.clear()\n    torch.save(model, save_path + \"/mpruner_model.pth\")\ndef compute_metrics(pred):\n    labels = pred.label_ids\n    preds = pred.predictions.argmax(-1)\n    acc = accuracy_score(labels, preds)",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "compute_metrics",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def compute_metrics(pred):\n    labels = pred.label_ids\n    preds = pred.predictions.argmax(-1)\n    acc = accuracy_score(labels, preds)\n    return {\n        \"accuracy\": acc,\n    }\ndef CreateTrainer(model, tokenizer, train_loader, val_loader, epoch):\n    model.to(device)\n    training_args = TrainingArguments(",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "CreateTrainer",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def CreateTrainer(model, tokenizer, train_loader, val_loader, epoch):\n    model.to(device)\n    training_args = TrainingArguments(\n        output_dir=f\"./model_save\",\n        num_train_epochs=epoch,\n        per_device_train_batch_size=32,\n        per_device_eval_batch_size=32,\n        warmup_steps=500,\n        weight_decay=0.001,\n        logging_dir=\"./logs\",",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Yahoo_Mpruner",
+        "kind": 2,
+        "importPath": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "description": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "peekOfCode": "def Yahoo_Mpruner(\n    useHGModel,\n    load,\n    data_name,\n    hook,\n    threshold,\n    acc_threshold,\n    epoch,\n    iterate,\n    freeze_flag,",
+        "detail": "Bert_Mpruner.Yahoo.Yahoo_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "CKA",
+        "kind": 6,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "class CKA:\n    def __init__(self, activation_size):\n        self.hsic_accumulator = torch.zeros(activation_size, activation_size)\n    def generate_gram_matrix(self, x):\n        x = x.view(x.size(0), -1)\n        gram = torch.matmul(x, x.t())\n        n = gram.size(0)\n        gram.fill_diagonal_(0)\n        means = gram.sum(dim=0) / (n - 2)\n        means -= means.sum() / (2 * (n - 1))",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "get_activation",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def get_activation(name):\n    def hook(model, input, output):\n        activation[name] = output\n    return hook\ndef register_hooks(model, layer_hook):\n    hooks = []\n    idx = 0\n    for name, module in model.named_modules():\n        if layer_hook == module.__class__.__name__:\n            othername = \"layer_\" + str(idx).zfill(5)",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "register_hooks",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def register_hooks(model, layer_hook):\n    hooks = []\n    idx = 0\n    for name, module in model.named_modules():\n        if layer_hook == module.__class__.__name__:\n            othername = \"layer_\" + str(idx).zfill(5)\n            hooks.append(module.register_forward_hook(get_activation(othername)))\n            layer_name[idx] = \"model.\" + re.sub(r\"\\.(\\d+)\", r\"[\\1]\", name)\n            idx += 1\n    return hooks",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "get_layer_modules2",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def get_layer_modules2(cka_scores, threshold):\n    if threshold > 100:\n        print(\"threshold should be under 100\")\n        return\n    modules = []\n    module_start_idx = 0\n    temp_module = []\n    start_idx = 0\n    end_idx = 0\n    while end_idx < len(cka_scores):",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Model(useHGModel, load):\n    if useHGModel:\n        model = ResNetForImageClassification.from_pretrained(load)\n    else:\n        model = torch.load(load)\n    model.to(device)\n    return model\ndef Dataset(custom_batch_size=64):\n    transform_val = transforms.Compose(\n        [",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Dataset(custom_batch_size=64):\n    transform_val = transforms.Compose(\n        [\n            transforms.Resize(256),\n            transforms.CenterCrop(224),\n            transforms.ToTensor(),\n            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),\n        ]\n    )\n    train_dataset = datasets.ImageFolder(",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "GetAccuracy",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def GetAccuracy(model, val_loader):\n    correct = 0\n    total = 0\n    with torch.no_grad():\n        for inputs, labels in tqdm(val_loader):\n            inputs = inputs.to(device)\n            logitss = model(inputs).logits\n            gc.collect()\n            torch.cuda.empty_cache()\n            for idx, logits in enumerate(logitss):",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "GetCandidates",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def GetCandidates(model, hook, threshold, val_loader, batch_size, save_path):\n    register_hooks(model, hook)\n    model(torch.randn(batch_size, 3, 224, 224).to(device))\n    cka = CKA(len(activation))\n    with torch.no_grad():\n        for inputs, _ in tqdm(val_loader):\n            inputs = inputs.to(device)\n            logitss = model(inputs).logits\n            activation_sort = [activation[key] for key in sorted(activation.keys())]\n            cka.update_state(activation_sort)",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "CheckCluster",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def CheckCluster(clusters):\n    for cluster in clusters:\n        if len(cluster) != 1:\n            return False\n    return True\ndef func(model, layer, in_channels_list=[], out_channels_list=[]):\n    for _, child in layer.named_children():\n        try:\n            in_channels_list.append(child.in_channels)\n            out_channels_list.append(child.out_channels)",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def func(model, layer, in_channels_list=[], out_channels_list=[]):\n    for _, child in layer.named_children():\n        try:\n            in_channels_list.append(child.in_channels)\n            out_channels_list.append(child.out_channels)\n        except:\n            pass\n        if list(child.children()):\n            func(model, child, in_channels_list, out_channels_list)\n    return [in_channels_list[0], out_channels_list[len(in_channels_list) - 1]]",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "ChannelCheck",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def ChannelCheck(model, prev_layer, next_layer):\n    if (\n        func(model, eval(layer_name[prev_layer]))[1]\n        == func(model, eval(layer_name[next_layer]))[0]\n    ):\n        return True\n    else:\n        False\ndef Pruner(model, cluster, k):\n    nofreeze_layer = set()",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Pruner",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Pruner(model, cluster, k):\n    nofreeze_layer = set()\n    for i in cluster[::-1]:\n        for j in i[1::k][::-1]:\n            if ChannelCheck(model, j - 1, j + 1):\n                del_cmd = \"del \" + str(layer_name[j])\n                exec(del_cmd)\n                nofreeze_layer = {x - 1 for x in nofreeze_layer}\n                nofreeze_layer.add(j)\n                nofreeze_layer.add(j - 1)",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Freezer",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Freezer(model, unfreeze_list, hook, freeze_flag):\n    if freeze_flag:\n        for name, module in model.named_modules():\n            if hook == module.__class__.__name__:\n                code = (\n                    \"model.\"\n                    + re.sub(r\"\\.(\\d+)\", r\"[\\1]\", name)\n                    + \".requires_grad = False\"\n                )\n                exec(code)",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Trainer(freeze_model, num_epoch, train_loader):\n    learning_rate = 0.0002\n    loss_func = nn.CrossEntropyLoss()\n    optimizer = torch.optim.Adam(freeze_model.parameters(), lr=learning_rate)\n    for epoch in range(num_epoch):\n        freeze_model.train()\n        for inputs, labels in tqdm(train_loader):\n            inputs, labels = inputs.to(device), labels.to(device)\n            optimizer.zero_grad()\n            outputs = freeze_model(inputs)",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Save",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Save(model, save_path):\n    for module in model.modules():\n        module._forward_hooks.clear()\n        module._forward_pre_hooks.clear()\n        module._backward_hooks.clear()\n    torch.save(model, save_path + \"/mpruner_model.pth\")\ndef Resnet_Mpruner(\n    useHGModel,\n    load,\n    batch_size,",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "Resnet_Mpruner",
+        "kind": 2,
+        "importPath": "Resnet_MPruner.Resnet_MPruner",
+        "description": "Resnet_MPruner.Resnet_MPruner",
+        "peekOfCode": "def Resnet_Mpruner(\n    useHGModel,\n    load,\n    batch_size,\n    hook,\n    threshold,\n    acc_threshold,\n    epoch,\n    iterate,\n    freeze_flag,",
+        "detail": "Resnet_MPruner.Resnet_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "QuestionGeneration",
+        "kind": 6,
+        "importPath": "T5_MPruner.generate",
+        "description": "T5_MPruner.generate",
+        "peekOfCode": "class QuestionGeneration:\n    def __init__(self, model_path=None,tokenizer_path=None,use_hg=False):\n        if use_hg:\n            self.model = T5ForConditionalGeneration.from_pretrained(model_path)\n        else:\n            self.model = torch.load(model_path)\n        self.tokenizer = T5Tokenizer.from_pretrained(tokenizer_path)\n        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n        self.model = self.model.to(self.device)\n        self.model.eval()",
+        "detail": "T5_MPruner.generate",
+        "documentation": {}
+    },
+    {
+        "label": "load_squad_dataset",
+        "kind": 2,
+        "importPath": "T5_MPruner.prepare",
+        "description": "T5_MPruner.prepare",
+        "peekOfCode": "def load_squad_dataset(dataset):\n    df_dataset = pd.DataFrame(columns=['context', 'question', 'answer'])\n    num_of_answer = 0\n    for index, value in tqdm(enumerate(dataset)):\n        context = value['context']\n        question = value['question']\n        answer = value['answers']['text'][0]\n        df_dataset.loc[num_of_answer] = [context] + [question] + [answer]\n        num_of_answer = num_of_answer + 1\n    return df_dataset",
+        "detail": "T5_MPruner.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceEmbeddings",
+        "kind": 6,
+        "importPath": "T5_MPruner.sentence_embeddings",
+        "description": "T5_MPruner.sentence_embeddings",
+        "peekOfCode": "class SentenceEmbeddings:\n    def __init__(self):\n        self.embedder = SentenceTransformer(trained_model)\n    def encode(self, text):\n        return self.embedder.encode(text, convert_to_tensor=True)\n    def get_most_similar(self, context:str, qa_list:list):\n        context_embeddings = self.encode(context)\n        top1 = {'idx': 0, 'score': float('-inf')}\n        for i in range(len(qa_list)):\n            qa_str = qa_list[i]['question'] + ' ' + qa_list[i]['answer']",
+        "detail": "T5_MPruner.sentence_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "trained_model",
+        "kind": 5,
+        "importPath": "T5_MPruner.sentence_embeddings",
+        "description": "T5_MPruner.sentence_embeddings",
+        "peekOfCode": "trained_model = 'all-distilroberta-v1'\nclass SentenceEmbeddings:\n    def __init__(self):\n        self.embedder = SentenceTransformer(trained_model)\n    def encode(self, text):\n        return self.embedder.encode(text, convert_to_tensor=True)\n    def get_most_similar(self, context:str, qa_list:list):\n        context_embeddings = self.encode(context)\n        top1 = {'idx': 0, 'score': float('-inf')}\n        for i in range(len(qa_list)):",
+        "detail": "T5_MPruner.sentence_embeddings",
+        "documentation": {}
+    },
+    {
+        "label": "T5_MPruner",
+        "kind": 6,
+        "importPath": "T5_MPruner.T5_MPruner",
+        "description": "T5_MPruner.T5_MPruner",
+        "peekOfCode": "class T5_MPruner:\n    def __init__(\n        self,\n        model_name=\"anonymous78784949/t5-squad-QG\",\n        tokenizer_path=None,\n        mpruned_model_path=\"mpruned_model.pth\",\n        dataset_name=\"squad\",\n        args=None,\n        useHGModel=False,\n    ) -> None:",
+        "detail": "T5_MPruner.T5_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "str2bool",
+        "kind": 2,
+        "importPath": "T5_MPruner.T5_MPruner",
+        "description": "T5_MPruner.T5_MPruner",
+        "peekOfCode": "def str2bool(v):\n    if isinstance(v, bool):\n        return v\n    if v.lower() in (\"yes\", \"true\", \"t\", \"y\", \"1\"):\n        return True\n    elif v.lower() in (\"no\", \"false\", \"f\", \"n\", \"0\"):\n        return False\n    else:\n        raise argparse.ArgumentTypeError(\"Boolean value expected.\")\nif __name__ == \"__main__\":",
+        "detail": "T5_MPruner.T5_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "train_file_path",
+        "kind": 5,
+        "importPath": "T5_MPruner.T5_MPruner",
+        "description": "T5_MPruner.T5_MPruner",
+        "peekOfCode": "train_file_path = \"datasets/squad_train.csv\"\nvalidation_file_path = \"datasets/squad_validation.csv\"\nclass T5_MPruner:\n    def __init__(\n        self,\n        model_name=\"anonymous78784949/t5-squad-QG\",\n        tokenizer_path=None,\n        mpruned_model_path=\"mpruned_model.pth\",\n        dataset_name=\"squad\",\n        args=None,",
+        "detail": "T5_MPruner.T5_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "validation_file_path",
+        "kind": 5,
+        "importPath": "T5_MPruner.T5_MPruner",
+        "description": "T5_MPruner.T5_MPruner",
+        "peekOfCode": "validation_file_path = \"datasets/squad_validation.csv\"\nclass T5_MPruner:\n    def __init__(\n        self,\n        model_name=\"anonymous78784949/t5-squad-QG\",\n        tokenizer_path=None,\n        mpruned_model_path=\"mpruned_model.pth\",\n        dataset_name=\"squad\",\n        args=None,\n        useHGModel=False,",
+        "detail": "T5_MPruner.T5_MPruner",
+        "documentation": {}
+    },
+    {
+        "label": "QGDataset",
+        "kind": 6,
+        "importPath": "T5_MPruner.train_util",
+        "description": "T5_MPruner.train_util",
+        "peekOfCode": "class QGDataset(Dataset):\n    def __init__(self, tokenizer, file_path, max_len_input=512, max_len_output=128):\n        self.tokenizer = tokenizer\n        self.data = pd.read_csv(file_path)\n        self.max_len_input = max_len_input\n        self.max_len_output = max_len_output\n        self.context_column = 'context'\n        self.answer_column = 'answer'\n        self.question_column = 'question'\n        self.inputs = []",
+        "detail": "T5_MPruner.train_util",
+        "documentation": {}
+    },
+    {
+        "label": "T5FineTuner",
+        "kind": 6,
+        "importPath": "T5_MPruner.train_util",
+        "description": "T5_MPruner.train_util",
+        "peekOfCode": "class T5FineTuner(pl.LightningModule):\n    def __init__(self, model, tokenizer, train_set,test_set,args):\n        super().__init__()\n        self.model = model\n        self.tokenizer = tokenizer\n        self.args = args\n        self.train_set = train_set\n        self.test_set = test_set\n    def forward(self, input_ids, attention_mask, labels=None):\n        return self.model(",
+        "detail": "T5_MPruner.train_util",
+        "documentation": {}
+    }
+]
