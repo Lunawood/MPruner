@@ -10,7 +10,7 @@
 ---
 
 ```bash
-conda activate -n emotion_mpruner python=3.11.8
+conda create -n emotion_mpruner python=3.11.8
 conda activate emotion_mpruner
 
 cd AAAI_MPruner/Emotion_MPruner
