@@ -10,7 +10,7 @@
 ---
 
 ```bash
-conda activate -n resnet_mpruner python=3.11.8
+conda create -n resnet_mpruner python=3.11.8
 conda activate resnet_mpruner
 
 cd AAAI_MPruner/Resnet_MPruner
