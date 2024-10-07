@@ -10,7 +10,7 @@
 ---
 
 ```bash
-conda activate -n yahoo_mpruner python=3.11.8
+conda create -n yahoo_mpruner python=3.11.8
 conda activate yahoo_mpruner
 
 cd AAAI_MPruner/Yahoo_MPruner
